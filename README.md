@@ -29,16 +29,18 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
 <img width="1364" height="713" alt="image" src="https://github.com/user-attachments/assets/5a41bf1f-faff-4f95-8d5a-8fc3c4a1396f" />
-<img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/2cff4e65-a275-4273-9cfc-bfdde29fcbf9" />
+
 
 ### 2. Network Server – Recent Events
-<img width="1919" height="1019" alt="Screenshot 2026-03-16 155740" src="https://github.com/user-attachments/assets/dc859d10-cb1b-46b3-ba01-08e168bb555e" />
-<img width="1919" height="1038" alt="Screenshot 2026-03-16 155904" src="https://github.com/user-attachments/assets/116a0ab0-f2af-49c0-95dc-d016abfa6997" />
+<img width="1876" height="1084" alt="Screenshot 2026-03-16 153204" src="https://github.com/user-attachments/assets/1f23c289-777a-43bf-ac01-ad9ab1bd2a78" />
+
+<img width="1919" height="1051" alt="Screenshot 2026-03-16 153212" src="https://github.com/user-attachments/assets/420c7867-d095-4f34-a8e3-aeffe564160a" />
 
 
 ### 3. Dashboard Command Sending
-<img width="1919" height="1020" alt="Screenshot 2026-03-16 155751" src="https://github.com/user-attachments/assets/f2d37a7a-8fd2-42d8-9543-e0177f0651f5" />
-<img width="1908" height="1018" alt="Screenshot 2026-03-16 155846" src="https://github.com/user-attachments/assets/628e397b-98e4-461a-bce5-fce0df297c23" />
+<img width="1915" height="951" alt="Screenshot 2026-03-16 153220" src="https://github.com/user-attachments/assets/a4452e0a-65a1-4423-a396-d8f75f69973e" />
+
+<img width="1914" height="1025" alt="Screenshot 2026-03-16 153314" src="https://github.com/user-attachments/assets/a32b5edd-277c-45b8-80fc-a016d07a7d64" />
 
 ### 4. Relay Status Dashboard Output
 
